@@ -18,8 +18,9 @@ Durante la etapa de validación, el modelo alcanzó un **mAP50 general de 0.7690
 
 Debido al tamaño de los archivos, los pesos entrenados del modelo y el dataset consolidado se alojan en enlaces externos:
 
-* **Pesos del Modelo Entrenado (`best.pt`):** [Descargar archivo best.pt](ENLACE_AQUI)
-* **Dataset Consolidado (`.zip`):** [Descargar dataset .zip](ENLACE_AQUI)
+* **Notebook para el Dataset Final (`Object Detection - PPE - Dataset and Labels Correction.ipynb`)**: https://drive.google.com/file/d/11SXF9WfNglHuE2SZu6Ok9hKzYPZTYERW/view?usp=sharing
+* **Pesos del Modelo Entrenado (`best.pt`):** https://drive.google.com/file/d/1l_hkbnAlY9x_FczZcnY4SX-3Jw0j7CXG/view?usp=drive_link
+* **Dataset Consolidado (`.zip`):** https://drive.google.com/file/d/1-OGfnpcCr3OzgaJ8cl3A3pc7SQh6ISWj/view?usp=drive_link
 
 ---
 
